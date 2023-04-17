@@ -2,6 +2,8 @@
 
 This project is a dashboard admin built with React.js and Vite. It includes MUI components and icons, Recharts, and React Router DOM.
 
+**Note: This is a simple version of the dashboard admin. More features will be added to it later.**
+
 ## Available Routes 🛣️
 
 The following routes are available in the dashboard admin:
@@ -9,7 +11,7 @@ The following routes are available in the dashboard admin:
 - `/home`: displays the main dashboard with various data visualizations and statistics.
 - `/users`: displays a list of users and their information. Users can be edited or deleted from this page.
 - `/products`: displays a list of products and their information. Products can be edited or deleted from this page.
-- `/edit-products/:id`: allows for editing of a specific product with the given `id`.
+- `/product/:productID`: allows for editing of a specific product with the given `productID`.
 
 ## Installation ⚙️
 
@@ -42,7 +44,3 @@ This dashboard admin was built using the following technologies and libraries:
 ## License 📜
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-```
-
-```
