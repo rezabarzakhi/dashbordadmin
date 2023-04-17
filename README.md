@@ -15,9 +15,9 @@ The following routes are available in the dashboard admin:
 
 To install the necessary dependencies, run:
 
-````bash
+```bash
 npm install
-
+```
 
 ## Usage 🚀
 
@@ -25,7 +25,7 @@ To run the dashboard admin, run:
 
 ```bash
  npm run dev
-
+```
 
 This will start a local server at http://localhost:5173/.
 
@@ -42,4 +42,7 @@ This dashboard admin was built using the following technologies and libraries:
 ## License 📜
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-````
+
+```
+
+```
